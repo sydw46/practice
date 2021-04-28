@@ -8,3 +8,9 @@ h1 {
 	font-family: 'Oswald', san-serif;
 }
 
+p, li {
+	color: #FBFBFB;
+	font-family: 'Oswald', serif;
+	font-size: 18px;
+}
+
