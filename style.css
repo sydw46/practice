@@ -1,6 +1,10 @@
-
- {
-	background-color: #1481BA;
-	font-family: comic sans;
-
+body {
+	background-color: #28262C;
 }
+
+h1 {
+	color: #FBFBFB;
+	text-align: center;
+	font-family: 'Oswald', san-serif;
+}
+
