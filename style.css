@@ -1,5 +1,5 @@
 body {
-	background-color: #28262C;
+	background-color: #B4C5E4;
 }
 
 h1 {
@@ -18,6 +18,11 @@ p, li {
 img{
 	border: 5px solid #C1BCAC;
 	border-radius: 10%;
+
+}
+
+.text-align{
+	text-align: center;
 }
 
 .center {
@@ -27,9 +32,6 @@ img{
 	width: 60%;
 }
 
-link{
-	text-align: center;
-}
 
 footer{
 	background-color: #28262C;
